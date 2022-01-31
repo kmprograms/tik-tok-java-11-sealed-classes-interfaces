@@ -17,7 +17,7 @@ public class App1 {
 
     /*
         Klasa, którą umieszczono po słowie kluczowym
-        permits, musi być sealed, non-sealed lub permits.
+        permits, musi być sealed, non-sealed lub final.
         Wszystkie klasy muszą znajdować się w tej samej
         paczce.
     */
